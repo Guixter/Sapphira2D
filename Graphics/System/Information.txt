@@ -1,0 +1,3 @@
+Format de title.png : 640*480
+
+Format de window.png : 100*100, avec la bordure ne dépassant pas 15 px

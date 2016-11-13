@@ -1,0 +1,8 @@
+find . -name '*.class' -type f -delete;
+find . -name '*.html' -type f -delete;
+find . -name '*.css' -type f -delete;
+find . -name '*.gif' -type f -delete;
+find . -name '*~' -type f -delete;
+find . -name 'package-list' -type f -delete;
+find . -name '*.html' -type f -delete;
+find . -type d -empty -delete;

@@ -1,0 +1,2 @@
+- à chaque chargement d'une nouvelle scene, on vide le cache du ressource manager
+- gérer l'enregistrement d'un "contexte" pour pouvoir le rétablir à la fin d'une pause

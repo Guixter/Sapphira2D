@@ -1,0 +1,8 @@
+- des éléments graphiques style "Resized Element" pour tourner, agrandir, miroir, changement couleurs... Les filtres habituels
+- pour graphicElement : centerX, centerY
+- des éléments graphiques pour portionner d'autres graphicElments
+- revoir GLine, apparemment ne marche pas
+
+- Dans le windowManager, mettre une fonction pour savoir si un bouton est pressé au moment où on le demande
+- Changer la fonction getText de KeyCtx (faire à la main)
+- tester tout ce qui concerne les signaux

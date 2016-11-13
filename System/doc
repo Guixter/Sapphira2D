@@ -1,0 +1,1 @@
+javadoc -subpackages GameLauncher.java sapphira2D sapphira2D.graphicEngine sapphira2D.dataEngine sapphira2D.eventEngine
