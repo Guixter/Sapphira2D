@@ -1,0 +1,3 @@
+pdflatex manual.tex
+pdflatex manual.tex
+evince manual.pdf &
